@@ -1,0 +1,4 @@
+pillow
+gradio_client
+streamlit
+python-dotenv
