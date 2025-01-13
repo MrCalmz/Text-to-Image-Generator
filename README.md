@@ -12,9 +12,13 @@ A sophisticated Streamlit application that transforms text descriptions into AI-
 - Session statistics
 - Download capabilities
 
+streamlit link: https://text-2-img.streamlit.app
  Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/MrCalmz/Text-to-Image-Generator.git
 cd Text-to-Image-Generator
+
+
+
