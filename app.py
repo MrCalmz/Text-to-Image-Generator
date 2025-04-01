@@ -176,7 +176,7 @@ def footer():
             <div style='text-align: center;'>
                 <p>
                     🛠️ Crafted with passion by 
-                    <a href="https://github.com/MrCalmz" target="_blank">Calmz Data Nexus</a>
+                    <a href="https://calmznexus.pythonanywhere.com" target="_blank">Calmz Data Nexus</a>
                 </p>
                 <p style='font-size: 0.8em; color: #666666;'>
                     Powered by Streamlit & Hugging Face Spaces
